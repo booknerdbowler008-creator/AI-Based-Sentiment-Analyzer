@@ -25,7 +25,7 @@ The project uses a pre- model for sentiment classification and provides confiden
 ### Clone Repository
 
 ```bash
-git clone https://github.com/booknerdbowler008-creator/AI--Based-Sentiment-Analyser.git
+git clone https://github.com/booknerdbowler008-creator/AI-Based-Sentiment-Analyser.git
 ```
 ### Navigate to Project Folder
 
